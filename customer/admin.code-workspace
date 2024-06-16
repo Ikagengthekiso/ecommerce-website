@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../admin"
+		},
+		{
+			"path": "../assets"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../css"
+		}
+	],
+	"settings": {}
+}
